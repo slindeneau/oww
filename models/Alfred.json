@@ -3,7 +3,7 @@
   "wake_word": "Alfred",
   "author": "Scott",
   "website": "https://github.com/slindeneau/oww/",
-  "model": "./Alfred.tflite",
+  "model": "Alfred.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
